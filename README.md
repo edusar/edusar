@@ -7,12 +7,12 @@
 
 <h3 align="center"> Soy un argentino de 34 años de edad al que le gustan los videojuegos y la tecnologia. Actualmente me desempeño como full-stack web developer y trato de aprender acerca de nuevos sistemas, tecnologias de punta y todo lo que pueda utilizar para desempeñarme como un buen desarrolador web. </h3>
 
-
+https://www.soyhenry.com/
 
 - 🌱 Actualmente aprendiendo **MongoDB, Mongoose**
 - 💬 Con conocimientos en **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Sequelize**
 - 📫 Me puedes contactar a **estudioedusar@hotmail.com**
-- 📄 Desde mayo de 2021 he estado aprendiendo de manera autodidacta HTML, CSS y JavaScript. En Septiembre de 2021 ingrese al bootcamp de Henry en donde realice proyectos implementando tecnologias como JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Sequelize. Y me interiorice acerca de Stripe, para implementarla en mi proyecto grupal final, asi como tambien Google-Cloud para poder realizar logup y login.
+- 📄 Desde mayo de 2021 he estado aprendiendo de manera autodidacta HTML, CSS y JavaScript. En Septiembre de 2021 ingrese al bootcamp de <a href="https://www.soyhenry.com/" target="_blank">HENRY</a> en donde realice proyectos implementando tecnologias como JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Sequelize. Y me interiorice acerca de Stripe, para implementarla en mi proyecto grupal final, asi como tambien Google-Cloud para poder realizar logup y login.
 
 <h3 align="left">Puedes buscarme tambien en:</h3>
 <p align="left">
